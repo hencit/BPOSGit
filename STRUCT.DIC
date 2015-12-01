@@ -1,0 +1,142 @@
+LINES  :  742
+DBF    :  DEPT000
+DESC   :  Database Department Stock
+END    :  
+DBF    :  GROUP000
+DESC   :  Database Group Stock
+END    :  
+DBF    :  OUTLT000
+DESC   :  Database Outlet
+END    :  
+DBF    :  STOCK000
+DESC   :  Database Stock
+END    :  
+DBF    :  CHPRM000
+DESC   :  Database Perubahan Harga
+END    :  
+DBF    :  CHPRS000
+DESC   :  Database Sub Perubahan Harga
+END    :  
+DBF    :  PURCM000						  
+DESC   :  Database Order Pembelian
+END    :  
+DBF    :  PURCS000
+DESC   :  Database Sub Order Pembelian
+END    :  
+DBF    :  ICBYM000
+DESC   :  Database Penerimaan Barang
+END    :  
+DBF    :  ICBYS000
+DESC   :  Database Perincian Penerimaan
+END    :  
+DBF    :  RTBYM000
+DESC   :  Database Retur Penerimaan Barang
+END    :  
+DBF    :  RTBYS000
+DESC   :  Database Perincian Retur Penerimaan
+END    :  
+DBF    :  ICSLM000
+DESC   :  Database Penjualan Kredit
+END    :  
+DBF    :  ICSLS000
+DESC   :  Database Perincian Penjualan Kredit
+END    :  
+DBF    :  RTSLM000
+DESC   :  Database Retur Penjualan Kredit
+END    :  
+DBF    :  RTSLS000
+DESC   :  Database Perincian Retur Penjualan Kredit
+END    :  
+DBF    :  ICPRM000
+DESC   :  Database Produksi
+END    :  
+DBF    :  ICPRS000
+DESC   :  Database Perincian Produksi
+END    :  
+DBF    :  ICADM000
+DESC   :  Database Penyesuaian Stock
+END    :  
+DBF    :  ICADS000
+DESC   :  Database Perincian Penyesuaian
+END    :  
+DBF    :  ICBSM000
+DESC   :  Database Pemusnahan Stock
+END    :  
+DBF    :  ICBSS000
+DESC   :  Database Perincian Pemusnahan
+END    :  
+DBF    :  ICOPM000
+DESC   :  Database Stock Opname
+END    :  
+DBF    :  ICOPS000
+DESC   :  Database Perincian Stock Opname
+END    :  
+DBF    :  ICMKM000
+DESC   :  Database Mutasi Keluar
+END    :  
+DBF    :  ICMKS000
+DESC   :  Database Mutasi Keluar
+END    :  
+DBF    :  ICMMM000
+DESC   :  Database Mutasi Masuk
+END    :  
+DBF    :  ICMMS000
+DESC   :  Database Item Mutasi Masuk
+END    :  
+DBF    :  ICMTM000
+DESC   :  Database Mutasi Gudang
+END    :  
+DBF    :  ICMTS000
+DESC   :  Database Item Mutasi Gudang
+END    :  
+DBF    :  APSUP000
+DESC   :  Database Profil Supplier
+END    :  
+DBF    :  APBUY000
+DESC   :  Database Nota Hutang
+END    :  
+DBF    :  PAYMM000
+DESC   :  Database Nota Pembayaran
+END    :  
+DBF    :  PAYMS000
+DESC   :  Database Item Pembayaran
+END    :  
+DBF    :  ARCUS000
+DESC   :  Database Profil Customer
+END    :  
+DBF    :  ARSAL000
+DESC   :  Database Nota Piutang
+END    :  
+DBF    :  ARTRM000
+DESC   :  Database Nota Pembayaran Piutang
+END    :  
+DBF    :  ARTRS000
+DESC   :  Database Item Pembayaran Piutang
+END    :  
+DBF    :  DISCM000
+DESC   :  Database Discount Acara
+END    :  
+DBF    :  DISCS000
+DESC   :  Database Item Discount Acara
+END    :  
+DBF    :  KASIR000
+DESC   :  Database Kode Kasir
+END    :  
+DBF    :  KMAP000
+DESC   :  Database Keyboard Mapping
+END    :  
+DBF    :  KUNCI000
+DESC   :  Database Kode Supervisor Kasir
+END    :  
+DBF    :  KASSA000
+DESC   :  Database Pos Setup
+END    :  
+DBF    :  SFILE000
+DESC   :  Database Penjualan Outlet
+END    :  
+DBF    :  MEMB000
+DESC   :  Database Member
+END    :  
+DBF    :  TRANS000
+DESC   :  Database Transaksi Point
+END    :  
